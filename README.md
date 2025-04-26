@@ -7,6 +7,13 @@ A simple and efficient Node.js utility for sanitizing and scanning uploaded file
 - **Virus Scanning**: Leverages ClamAV for virus detection.
 - **Easy Integration**: Simple API for quick setup.
 
+## Installation
+```bash
+npm install node-clamav-file-scanner
+```
+
+
+
 ## Usage
 
 1. Initialize ClamAV Scanner
