@@ -6,6 +6,7 @@ A simple and efficient Node.js utility for sanitizing and scanning uploaded file
 - **Sanitization**: Clean files (SVG, PDF, JPEG) before scanning.
 - **Virus Scanning**: Leverages ClamAV for virus detection.
 - **Easy Integration**: Simple API for quick setup.
+- **Link**: https://www.npmjs.com/package/node-clamav-file-scanner
 
 ## Installation
 ```bash
